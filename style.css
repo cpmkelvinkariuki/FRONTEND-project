@@ -1,5 +1,6 @@
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-image: url(https://t4.ftcdn.net/jpg/03/07/48/25/360_F_307482559_1J5QQSRplnjFsFC9GdWaLPQRtLJNKFvB.jpg);
+  color: black;
 }
 
 h1, h2, p {
@@ -8,7 +9,7 @@ h1, h2, p {
 
 .menu {
   width: 80%;
-  background-color: burlywood;
+  background-image: url(https://64.media.tumblr.com/44a1bd00ba6e4f3296f84fa0c1c83ada/60413465a7a7ef0e-d4/s500x750/1192cbf664f03e3c5c9caed01728f4a279237f48.jpg);
   margin-left: auto;
   margin-right: auto;
 }
@@ -18,10 +19,12 @@ h1, h2, p {
 }
 .flavor {
   text-align: left;
-  width: 50%;
+  width: 75%;
+  color: maroon;
 }
 
 .price {
   text-align: right;
-  width: 50%;
+  width: 25%;
+  color: gold;
 }
